@@ -1,0 +1,243 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  direction: rtl;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: vazir;
+  background: darkslateblue;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  width: 100%;
+}
+
+/* header styles */
+#header {
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 50px;
+  padding: 10px 20px;
+  position: fixed;
+  width: 95%;
+  top: 20px;
+  /* first way to centeralize div */
+  right: 2.5%;
+  /* second way to centeralize div */
+  /* left: 0;
+  right: 0;
+  margin: auto; */
+  z-index: 99;
+}
+
+/* logo */
+#header .logo-link {
+  line-height: 0;
+}
+#header .logo-link .logo-img {
+  width: 60px;
+}
+
+/* header list */
+#header .navbar-list {
+  display: flex;
+  gap: 30px;
+}
+
+#header .navbar-list > li {
+  position: relative;
+  padding: 15px 0;
+}
+
+#header .navbar-list .submenu {
+  position: absolute;
+  background: slateblue;
+  width: 200px;
+  border-radius: 10px;
+  padding: 10px;
+  top: 100%;
+  color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  pointer-events: none;
+}
+
+#header .navbar-list .submenu li a {
+  padding: 0.3rem;
+  display: block;
+  border-radius: 7px;
+}
+
+#header .navbar-list .submenu li a:hover {
+  background: white;
+  color: slateblue;
+}
+
+/* show sub menu */
+#header .navbar-list > li:hover .submenu {
+  opacity: 1;
+  pointer-events: auto;
+}
+/* contact link */
+
+#header .header-contact-link {
+  background: darkslateblue;
+  color: white;
+  padding: 7px 13px;
+  border-radius: 10px;
+}
+
+#header .header-contact-link .contact-icon {
+  margin-right: 5px;
+}
+
+.main-container {
+  margin-top: 170px;
+}
+/* prodcuts list styles */
+.menu-list {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 80px 40px;
+}
+
+.menu-list .menu-item {
+  background: #ffffff2c;
+  border-radius: 18px;
+  width: 29%;
+  color: white;
+  padding: 20px;
+  position: relative;
+  z-index: 9;
+}
+
+/* like button */
+.like-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: none;
+  font-size: 1.2rem;
+  color: white;
+  background: #ffffff2c;
+  cursor: pointer;
+  transition: all 0.3s;
+  opacity: 0;
+  /* pointer-events: none; */
+  visibility: hidden;
+}
+
+.like-btn:hover {
+  background: darkslateblue;
+  scale: 1.1;
+  right: 13px;
+  top: 13px;
+}
+
+.menu-list .menu-item:hover .like-btn {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* menu image */
+.menu-list .menu-item .menu-img {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}
+
+/* menu title */
+.menu-list .menu-item .menu-title {
+  border-top: 1px solid white;
+  padding-top: 15px;
+  margin-bottom: 10px;
+}
+
+/* menu bottom info (price & order link) */
+.menu-list .menu-item .menu-info-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-list .menu-item .menu-info-box .order-link {
+  background: white;
+  color: black;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+
+/* footer styles */
+
+#footer {
+  background: white;
+  padding: 20px;
+  padding-top: 40px;
+}
+
+#footer .footer-info-box {
+  display: flex;
+  align-items: center;
+  gap: 80px;
+}
+
+#footer .footer-info-box .footer-section {
+  width: 50%;
+}
+
+#footer .footer-info-box .footer-section .footer-title {
+  margin-bottom: 10px;
+}
+
+#footer .footer-info-box .footer-section .footer-text {
+  line-height: 35px;
+  text-align: justify;
+}
+
+#footer .footer-info-box .footer-section .footer-link {
+  margin-bottom: 10px;
+}
+
+/* copy right text */
+#footer .footer-copyright {
+  text-align: center;
+  margin-top: 40px;
+}
+#footer .footer-copyright .soufi-link {
+  text-decoration: underline;
+  text-decoration-color: #969696;
+}
+
+#footer .go-top-link {
+  background: darkslateblue;
+  color: white;
+  padding: 10px 18px;
+  border-radius: 10px;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  z-index: 99;
+}
