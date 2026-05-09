@@ -14,6 +14,13 @@ Video tutorials and walkthroughs for this project are available on our [Aparat C
 
 ---
 
+## 🛠️ Project Technologies
+
+*   HTML5
+*   CSS3
+
+---
+
 ## 📞 Connect With Us
 
 Stay updated and engage with the Soufilearn community:
@@ -22,10 +29,3 @@ Stay updated and engage with the Soufilearn community:
 *   **Rubika:** [@soufi\_learn](https://rubika.ir/soufi_learn)
 *   **Telegram:** [@soufi\_joon](https://t.me/soufi_joon)
 *   **Instagram:** [@soufi\_learn](https://instagram.com/soufi_learn)
-
----
-
-## 🛠️ Project Technologies
-
-*   HTML5
-*   CSS3
