@@ -10,7 +10,7 @@ You can find the course playlist here: [HTML CSS Course](https://www.aparat.com/
 
 This project serves as a hands-on capstone to enhance your HTML and CSS proficiency. By working through the code, you will significantly improve your practical skills in front-end development.
 
-Video tutorials and walkthroughs for this project are available on our [Aparat Channel](https://www.aparat.com/soufi_learn).
+Video tutorials and walkthroughs for this project are available on our [Aparat Channel](https://www.aparat.com/v/uki689z).
 
 ---
 
