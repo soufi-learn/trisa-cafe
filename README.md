@@ -1,4 +1,4 @@
-# ⭐ Cafe Trisa Project
+# ⭐ Trisa Cafe Project
 
 This project was developed as a practical exercise for the **HTML & CSS Course** offered by Soufilearn.
 
