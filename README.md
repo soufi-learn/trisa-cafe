@@ -6,7 +6,7 @@ You can find the course playlist here: [HTML CSS Course](https://www.aparat.com/
 
 ---
 
-## About This Project
+## 🔑 About This Project
 
 This project serves as a hands-on capstone to enhance your HTML and CSS proficiency. By working through the code, you will significantly improve your practical skills in front-end development.
 
@@ -14,7 +14,7 @@ Video tutorials and walkthroughs for this project are available on our [Aparat C
 
 ---
 
-## Connect With Us
+## 📞 Connect With Us
 
 Stay updated and engage with the Soufilearn community:
 
@@ -25,7 +25,7 @@ Stay updated and engage with the Soufilearn community:
 
 ---
 
-## Project Technologies
+## 🛠️ Project Technologies
 
 *   HTML5
 *   CSS3
