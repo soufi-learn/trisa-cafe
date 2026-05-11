@@ -32,5 +32,5 @@ Stay updated and engage with the Soufilearn community:
 
 ## 🩵 Credits
 
-Created and taught by **SofiLearn**  
+Created and taught by **SoufiLearn**  
 With love for better learning 💙
