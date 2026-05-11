@@ -1,10 +1,9 @@
-# ⭐ Trisa Cafe Project
+## ⭐ Trisa Cafe Project (HTML & CSS)
 
 This project was developed as a practical exercise for the **HTML & CSS Course** offered by Soufilearn.
 
 You can find the course playlist here: [HTML CSS Course](https://www.aparat.com/playlist/14433711).
 
----
 
 ## 🔑 About This Project
 
@@ -12,14 +11,15 @@ This project serves as a hands-on capstone to enhance your HTML and CSS proficie
 
 Video tutorials and walkthroughs for this project are available on our [Aparat Channel](https://www.aparat.com/v/uki689z).
 
----
+## 🎬 Tutorial Series (Aparat)
 
-## 🛠️ Project Technologies
+- **Episode 1:** https://www.aparat.com/v/uki689z  
+- **Episode 2:** https://www.aparat.com/v/rlsd5hr 
+- **Episode 3:** https://www.aparat.com/v/qwrp9dv  
+- **Episode 4:** https://www.aparat.com/v/ytd9492  
+- **Episode 5:** https://www.aparat.com/v/qfrb532  
+- **Episode 6 (Final):** https://www.aparat.com/v/ibzqubb  
 
-*   HTML5
-*   CSS3
-
----
 
 ## 📞 Connect With Us
 
@@ -29,3 +29,8 @@ Stay updated and engage with the Soufilearn community:
 *   **Rubika:** [@soufi\_learn](https://rubika.ir/soufi_learn)
 *   **Telegram:** [@soufi\_joon](https://t.me/soufi_joon)
 *   **Instagram:** [@soufi\_learn](https://instagram.com/soufi_learn)
+
+## 🩵 Credits
+
+Created and taught by **SofiLearn**  
+With love for better learning 💙
