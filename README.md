@@ -11,7 +11,7 @@ This project serves as a hands-on capstone to enhance your HTML and CSS proficie
 
 Video tutorials and walkthroughs for this project are available on our [Youtube Channel](https://youtu.be/APvGOZpqzqM?si=FdcqQV-UeR6k_lzM).
 
-## 🎬 Tutorial Series (Aparat)
+## 🎬 Tutorial Series (Youtube)
 
 - **Episode 1:** https://youtu.be/APvGOZpqzqM?si=iDW3k-K7S9jLZMLz  
 - **Episode 2:** https://youtu.be/GR4wWwlF5nI?si=FAQxuOSosyIZDX8C
